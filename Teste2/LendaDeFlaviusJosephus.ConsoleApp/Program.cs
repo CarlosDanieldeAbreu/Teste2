@@ -6,7 +6,7 @@ namespace LendaDeFlaviusJosephus.ConsoleApp
     {
         static void Main(string[] args)
         {
-            //parcial
+            //Terminado
             Console.WriteLine("Insira a quantidade de homens:");
             string strHomens = Console.ReadLine();
             int homens = Convert.ToInt32(strHomens);
