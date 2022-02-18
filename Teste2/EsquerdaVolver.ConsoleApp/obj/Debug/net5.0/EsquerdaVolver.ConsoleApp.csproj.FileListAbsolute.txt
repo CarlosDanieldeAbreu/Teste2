@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\ref\EsquerdaVolver.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\bin\Debug\net5.0\EsquerdaVolver.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\ref\EsquerdaVolver.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\EsquerdaVolver.ConsoleApp\obj\Debug\net5.0\EsquerdaVolver.ConsoleApp.genruntimeconfig.cache

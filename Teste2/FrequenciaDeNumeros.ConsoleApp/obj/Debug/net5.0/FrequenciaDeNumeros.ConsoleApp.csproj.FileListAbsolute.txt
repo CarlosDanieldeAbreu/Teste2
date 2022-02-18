@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\ref\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\bin\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\ref\FrequenciaDeNumeros.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Teste2\Teste2\FrequenciaDeNumeros.ConsoleApp\obj\Debug\net5.0\FrequenciaDeNumeros.ConsoleApp.genruntimeconfig.cache
